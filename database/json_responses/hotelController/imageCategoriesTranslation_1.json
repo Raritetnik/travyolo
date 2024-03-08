@@ -1,0 +1,42 @@
+[
+    {
+        "code": "10",
+        "name": "Conférence"
+    },
+    {
+        "code": "11",
+        "name": "Activités pour enfants & aire de jeux"
+    },
+    {
+        "code": "12",
+        "name": "Salle de bain"
+    },
+    {
+        "code": "13",
+        "name": "Salon"
+    },
+    {
+        "code": "14",
+        "name": "Commodités de la chambre d'invités"
+    },
+    {
+        "code": "15",
+        "name": "Installations de la propriété"
+    },
+    {
+        "code": "16",
+        "name": "Image en vedette"
+    },
+    {
+        "code": "17",
+        "name": "Café/Bar"
+    },
+    {
+        "code": "18",
+        "name": "Banquet/Salle de bal"
+    },
+    {
+        "code": "19",
+        "name": "Lounge"
+    }
+]

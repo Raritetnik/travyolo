@@ -1,0 +1,62 @@
+[
+    {
+        "code": "au",
+        "name": "Australia",
+        "continent": "oc",
+        "updated_at": "2023-02-09T09:30:14.050096Z"
+    },
+    {
+        "code": "at",
+        "name": "Austria",
+        "continent": "eu",
+        "updated_at": "2023-02-09T09:30:11.708092Z"
+    },
+    {
+        "code": "az",
+        "name": "Azerbaijan",
+        "continent": "as",
+        "updated_at": "2023-02-09T09:30:09.524610Z"
+    },
+    {
+        "code": "bs",
+        "name": "Bahamas",
+        "continent": "na",
+        "updated_at": "2023-02-09T09:30:14.417117Z"
+    },
+    {
+        "code": "bh",
+        "name": "Bahrain",
+        "continent": "as",
+        "updated_at": "2023-02-09T09:30:13.534338Z"
+    },
+    {
+        "code": "bd",
+        "name": "Bangladesh",
+        "continent": "as",
+        "updated_at": "2023-02-09T09:30:11.773295Z"
+    },
+    {
+        "code": "bb",
+        "name": "Barbados",
+        "continent": "na",
+        "updated_at": "2023-02-09T09:30:11.758360Z"
+    },
+    {
+        "code": "by",
+        "name": "Belarus",
+        "continent": "eu",
+        "updated_at": "2023-02-09T09:30:13.434738Z"
+    },
+    {
+        "code": "be",
+        "name": "Belgium",
+        "continent": "eu",
+        "updated_at": "2023-02-09T09:30:09.375562Z"
+    },
+    {
+        "code": "bz",
+        "name": "Belize",
+        "continent": "na",
+        "updated_at": "2023-02-09T09:30:11.795714Z"
+    }
+]

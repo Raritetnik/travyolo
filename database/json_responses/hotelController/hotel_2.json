@@ -1,0 +1,68 @@
+[
+    {
+        "code": "A1B2C3",
+        "master": null,
+        "name": "Hotel ABC",
+        "country": "us",
+        "zipcode": "12345",
+        "address": "123 Main Street",
+        "destination": "XYZ123",
+        "latitude": 37.12345,
+        "longitude": -122.98765,
+        "currencycode": "USD",
+        "checkin_from": "15:00",
+        "checkout_to": "11:00",
+        "nr_rooms": 100,
+        "stars": 3.5,
+        "availability_score": 0.8,
+        "hotel_type": "XYZ",
+        "images": [
+            {
+                "category": "A",
+                "tag": "Lobby",
+                "original": "https://example.com/images/lobby.jpg",
+                "thumbnail_images": {
+                    "large": "https://example.com/images/thumbnails/large/lobby.jpg",
+                    "small": "https://example.com/images/thumbnails/small/lobby.jpg",
+                    "mid": "https://example.com/images/thumbnails/mid/lobby.jpg"
+                }
+            },
+            {
+                "category": "B",
+                "tag": "Room",
+                "original": "https://example.com/images/room.jpg",
+                "thumbnail_images": {
+                    "large": "https://example.com/images/thumbnails/large/room.jpg",
+                    "small": "https://example.com/images/thumbnails/small/room.jpg",
+                    "mid": "https://example.com/images/thumbnails/mid/room.jpg"
+                }
+            }
+        ],
+        "regions": [
+            "ABC123"
+        ],
+        "themes": [
+            "XYZ456",
+            "XYZ789"
+        ],
+        "chains": [
+            "10a",
+            "10c"
+        ],
+        "facilities": [
+            "FAC1",
+            "FAC2",
+            "FAC3"
+        ],
+        "descriptions": {
+            "en-us": {
+                "Hotel Information": "Hotel ABC is a luxurious hotel located in the heart of a vibrant city. With its modern architecture and exquisite amenities, this hotel offers a comfortable and memorable stay for both business and leisure travelers. Explore the nearby attractions, indulge in delicious cuisine at the on-site restaurant, or simply unwind in the elegant surroundings of your room. Experience the true essence of hospitality at Hotel ABC."
+            }
+        },
+        "year_built": 2000,
+        "nr_restaurants": 2,
+        "nr_bars": 1,
+        "nr_halls": 3,
+        "updated_at": "2022-05-19T09:00:00Z"
+    }
+]

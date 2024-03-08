@@ -1,0 +1,30 @@
+[
+    {
+        "code": "as",
+        "name": "Asia"
+    },
+    {
+        "code": "af",
+        "name": "Africa"
+    },
+    {
+        "code": "eu",
+        "name": "Europe"
+    },
+    {
+        "code": "na",
+        "name": "North America"
+    },
+    {
+        "code": "sa",
+        "name": "South America"
+    },
+    {
+        "code": "oc",
+        "name": "Oceania"
+    },
+    {
+        "code": "an",
+        "name": "Antarctica"
+    }
+]

@@ -1,0 +1,34 @@
+[
+        {
+            "code": "RO",
+            "name": "Room Only"
+        },
+        {
+            "code": "BC",
+            "name": "Breakfast Continental"
+        },
+        {
+            "code": "BE",
+            "name": "Breakfast English"
+        },
+        {
+            "code": "HB",
+            "name": "Half Board"
+        },
+        {
+            "code": "FB",
+            "name": "Full Board"
+        },
+        {
+            "code": "AI",
+            "name": "All Inclusive"
+        },
+        {
+            "code": "UL",
+            "name": "Ultra"
+        },
+        {
+            "code": "SC",
+            "name": "Self Catering"
+        }
+    ]

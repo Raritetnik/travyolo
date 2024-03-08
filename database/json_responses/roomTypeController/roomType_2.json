@@ -1,0 +1,63 @@
+[
+    {
+        "code": "LS",
+        "quantity": 1,
+        "name": "Lit Seule",
+        "updated_at": "2019-11-09T08:00:00Z"
+    },
+    {
+        "code": "LD",
+        "quantity": 2,
+        "name": "Lit double",
+        "updated_at": "2017-12-08T13:00:00Z"
+    },
+    {
+        "code": "LJ",
+        "quantity": 2,
+        "name": "Lit jumeau",
+        "updated_at": "2016-10-09T14:10:17Z"
+    },
+    {
+        "code": "LT",
+        "quantity": 3,
+        "name": "Lit triple",
+        "updated_at": "2022-10-12T16:08:40Z"
+    },
+    {
+        "code": "LQ",
+        "quantity": 4,
+        "name": "Lit quadruple",
+        "updated_at": "2010-11-16T14:17:35Z"
+    },
+    {
+        "code": "SM5",
+        "quantity": 5,
+        "name": "La salle a manger 5",
+        "updated_at": "2013-09-15T07:14:00Z"
+    },
+    {
+        "code": "SM6",
+        "quantity": 6,
+        "name": "La salle a manger 6",
+        "updated_at": "2000-01-16T17:21:32Z"
+    },
+    {
+        "code": "SM7",
+        "quantity": 7,
+        "name": "La salle a manger 7",
+        "updated_at": "1973-11-12T04:15:00Z"
+    },
+    {
+        "code": "SM8",
+        "quantity": 8,
+        "name": "La salle a manger 8",
+        "updated_at": "2001-15-16T04:11:17Z"
+    },
+    {
+        "code": "SM",
+        "quantity": 0,
+        "name": "La salle a manger",
+        "updated_at": "2014-10-19T15:02:29.855760Z"
+    }
+]
+

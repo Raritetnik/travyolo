@@ -1,0 +1,52 @@
+[
+        {
+            "code": "100",
+            "name": "Group",
+            "updated_at": "2016-03-10T14:23:12.551584Z"
+        },
+        {
+            "code": "101",
+            "name": "Young",
+            "updated_at": "2016-03-10T14:23:12.556685Z"
+        },
+        {
+            "code": "102",
+            "name": "elderly",
+            "updated_at": "2016-03-10T14:23:12.561514Z"
+        },
+        {
+            "code": "103",
+            "name": "Sports",
+            "updated_at": "2016-03-10T14:23:12.566386Z"
+        },
+        {
+            "code": "104",
+            "name": "couples",
+            "updated_at": "2016-03-10T14:23:12.571254Z"
+        },
+        {
+            "code": "105",
+            "name": "design",
+            "updated_at": "2016-03-10T14:23:12.576065Z"
+        },
+        {
+            "code": "106",
+            "name": "Luxury",
+            "updated_at": "2016-03-10T14:23:12.580899Z"
+        },
+        {
+            "code": "107",
+            "name": "Health Tourism",
+            "updated_at": "2016-03-10T14:23:12.585758Z"
+        },
+        {
+            "code": "108",
+            "name": "International",
+            "updated_at": "2016-03-10T14:23:12.590677Z"
+        },
+        {
+            "code": "109",
+            "name": "Beach",
+            "updated_at": "2016-03-10T14:23:12.595478Z"
+        }
+    ]

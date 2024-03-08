@@ -1,0 +1,82 @@
+[
+    {
+        "code": "1000",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "Entre Ríos",
+        "updated_at": "2014-12-08T06:00:00Z"
+    },
+    {
+        "code": "1001",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "Jujuy",
+        "updated_at": "2014-12-08T06:00:00Z"
+    },
+    {
+        "code": "1002",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "Mendoza",
+        "updated_at": "2016-02-09T09:31:44.255087Z"
+    },
+    {
+        "code": "1003",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "Río Negro",
+        "updated_at": "2014-12-08T06:00:00Z"
+    },
+    {
+        "code": "1004",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "Salta",
+        "updated_at": "2016-02-09T09:31:44.298467Z"
+    },
+    {
+        "code": "1005",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "San Juan",
+        "updated_at": "2016-02-09T09:31:44.148122Z"
+    },
+    {
+        "code": "1006",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "San Luis",
+        "updated_at": "2016-02-09T09:31:44.191761Z"
+    },
+    {
+        "code": "1007",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "Santiago del Estero",
+        "updated_at": "2016-02-09T09:31:44.127178Z"
+    },
+    {
+        "code": "1008",
+        "country": "ar",
+        "kind": "province",
+        "state_code": null,
+        "name": "Tierra del Fuego",
+        "updated_at": "2016-02-09T09:31:44.177218Z"
+    },
+    {
+        "code": "1009",
+        "country": "at",
+        "kind": "province",
+        "state_code": null,
+        "name": "Styria",
+        "updated_at": "2014-12-08T06:00:00Z"
+    }
+]

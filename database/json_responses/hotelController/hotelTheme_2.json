@@ -1,0 +1,52 @@
+[
+    {
+        "code": "1004",
+        "name": "Lune de miel/Romance",
+        "updated_at": "2023-05-19T09:30:00Z"
+    },
+    {
+        "code": "1003",
+        "name": "Gourmet",
+        "updated_at": "2005-08-12T14:20:35Z"
+    },
+    {
+        "code": "1002",
+        "name": "Ski/Sports d'hiver",
+        "updated_at": "2017-09-15T21:30:25Z"
+    },
+    {
+        "code": "1010",
+        "name": "Golf/Sports",
+        "updated_at": "2016-07-07T12:55:40Z"
+    },
+    {
+        "code": "1001",
+        "name": "Famille",
+        "updated_at": "2019-10-19T08:15:02Z"
+    },
+    {
+        "code": "1007",
+        "name": "Budget/Voyage sac à dos",
+        "updated_at": "2016-08-26T16:40:18Z"
+    },
+    {
+        "code": "1006",
+        "name": "Luxe",
+        "updated_at": "2000-12-03T10:05:07Z"
+    },
+    {
+        "code": "1008",
+        "name": "Autre5",
+        "updated_at": "Plage/Bord de mer"
+    },
+    {
+        "code": "1000",
+        "name": "Design",
+        "updated_at": "2023-05-19T14:55:00Z"
+    },
+    {
+        "code": "1009",
+        "name": "Spa/Détente",
+        "updated_at": "2023-05-19T08:10:00Z"
+    }
+]

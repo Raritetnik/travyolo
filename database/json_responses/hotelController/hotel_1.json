@@ -1,0 +1,165 @@
+[
+    {
+        "code": "100007",
+        "master": null,
+        "name": "Memphis Hotel Amsterdam",
+        "country": "nl",
+        "zipcode": "1071 NX",
+        "address": "De Lairessestraat 87",
+        "destination": "2078f",
+        "latitude": 52.35352913701477,
+        "longitude": 4.872272238135338,
+        "currencycode": "EUR",
+        "checkin_from": "14:00",
+        "checkout_to": "12:00",
+        "nr_rooms": 78,
+        "stars": 4.0,
+        "availability_score": 0.7,
+        "hotel_type": "204",
+        "images": [
+            {
+                "category": "39",
+                "tag": "Twin Room",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/558f5944c399c5f89c8505cde1641e44-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/558f5944c399c5f89c8505cde1641e44-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/558f5944c399c5f89c8505cde1641e44-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/558f5944c399c5f89c8505cde1641e44-1118155.jpg"
+                }
+            },
+            {
+                "category": "39",
+                "tag": "Superior Room",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/2051f523db76e0edae6a9fc6f2007ba7-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/2051f523db76e0edae6a9fc6f2007ba7-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/2051f523db76e0edae6a9fc6f2007ba7-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/2051f523db76e0edae6a9fc6f2007ba7-1118155.jpg"
+                }
+            },
+            {
+                "category": "39",
+                "tag": "Bathroom",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/0964d29756bc7754135792f8970f8dfb-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/0964d29756bc7754135792f8970f8dfb-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/0964d29756bc7754135792f8970f8dfb-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/0964d29756bc7754135792f8970f8dfb-1118155.jpg"
+                }
+            },
+            {
+                "category": "4f",
+                "tag": "Exterior",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/9cd1e25c90021ccf2a8878c3e551c031-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/9cd1e25c90021ccf2a8878c3e551c031-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/9cd1e25c90021ccf2a8878c3e551c031-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/9cd1e25c90021ccf2a8878c3e551c031-1118155.jpg"
+                }
+            },
+            {
+                "category": "33",
+                "tag": "Bar",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/4fc3d39a5db19c23756f93bb43b16934-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/4fc3d39a5db19c23756f93bb43b16934-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/4fc3d39a5db19c23756f93bb43b16934-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/4fc3d39a5db19c23756f93bb43b16934-1118155.jpg"
+                }
+            },
+            {
+                "category": "38",
+                "tag": "Brasserie",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/d2a84542927ff15be2e8e1f6934780af-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/d2a84542927ff15be2e8e1f6934780af-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/d2a84542927ff15be2e8e1f6934780af-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/d2a84542927ff15be2e8e1f6934780af-1118155.jpg"
+                }
+            },
+            {
+                "category": "39",
+                "tag": "Double Room",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/c7299fc6048a85714ddac597b7d195c1-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/c7299fc6048a85714ddac597b7d195c1-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/c7299fc6048a85714ddac597b7d195c1-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/c7299fc6048a85714ddac597b7d195c1-1118155.jpg"
+                }
+            },
+            {
+                "category": "39",
+                "tag": "Double Room",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/4e94c4b0bcc7db93b7fbc1109971d7bb-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/4e94c4b0bcc7db93b7fbc1109971d7bb-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/4e94c4b0bcc7db93b7fbc1109971d7bb-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/4e94c4b0bcc7db93b7fbc1109971d7bb-1118155.jpg"
+                }
+            },
+            {
+                "category": "39",
+                "tag": "Double Room",
+                "original": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/14/ad17cada79fd98185d64b26dbac87e37-1118155.jpg",
+                "thumbnail_images": {
+                    "large": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/large/14/ad17cada79fd98185d64b26dbac87e37-1118155.jpg",
+                    "small": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/small/14/ad17cada79fd98185d64b26dbac87e37-1118155.jpg",
+                    "mid": "https://s3-eu-west-1.amazonaws.com/cosmos-photos/thumbnails/mid/14/ad17cada79fd98185d64b26dbac87e37-1118155.jpg"
+                }
+            }
+        ],
+        "regions": [
+            "10b5"
+        ],
+        "themes": [
+            "100d",
+            "100e",
+            "1010",
+            "1012",
+            "1004",
+            "1006"
+        ],
+        "chains": [
+            "10d",
+            "14c"
+        ],
+        "facilities": [
+            "31",
+            "36",
+            "48",
+            "4f",
+            "75",
+            "7b",
+            "82",
+            "9d",
+            "9e",
+            "b9",
+            "178",
+            "1c1",
+            "201",
+            "209",
+            "22f",
+            "230",
+            "242",
+            "24d",
+            "253",
+            "2ac",
+            "2b0",
+            "2d5",
+            "2ff",
+            "335"
+        ],
+        "descriptions": {
+            "en-us": {
+                "Hotel Information": 
+                    "EMB Hotel Memphis is a deluxe hotel located in the fashionable heart of Amsterdam. With its ivy- covered facade, this hotel is the perfect place to sample the charm of one of Europe's most cosmopolitan cities. Ideal for sight seeing, the Gresham Memphis is within walking distance from the famous Rijks Museum, Van Gough Museum and Heineken Brewery tour. Also the surrounding area is packed with boutiques, charming cafes and tempting bistros."
+                
+            }
+        },
+        "year_built": null,
+        "nr_restaurants": null,
+        "nr_bars": null,
+        "nr_halls": null,
+        "updated_at": "2015-09-16T06:37:54.154742Z"
+    }
+]

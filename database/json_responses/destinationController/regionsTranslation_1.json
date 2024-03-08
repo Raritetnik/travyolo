@@ -1,0 +1,42 @@
+[
+    {
+        "code": "1000",
+        "name": "Entre Ríos"
+    },
+    {
+        "code": "1001",
+        "name": "Jujuy"
+    },
+    {
+        "code": "1002",
+        "name": "Mendoza"
+    },
+    {
+        "code": "1003",
+        "name": "Río Negro"
+    },
+    {
+        "code": "1004",
+        "name": "Salta"
+    },
+    {
+        "code": "1005",
+        "name": "San Juan"
+    },
+    {
+        "code": "1006",
+        "name": "San Luis"
+    },
+    {
+        "code": "1007",
+        "name": "Santiago del Estero"
+    },
+    {
+        "code": "1008",
+        "name": "Tierra del Fuego"
+    },
+    {
+        "code": "1009",
+        "name": "Styria"
+    }
+]

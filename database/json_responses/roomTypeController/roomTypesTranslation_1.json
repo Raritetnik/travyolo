@@ -1,0 +1,42 @@
+ [
+        {
+            "code": "SB",
+            "name": "Single"
+        },
+        {
+            "code": "DB",
+            "name": "Double"
+        },
+        {
+            "code": "TW",
+            "name": "Twin"
+        },
+        {
+            "code": "TB",
+            "name": "Triple"
+        },
+        {
+            "code": "QB",
+            "name": "Quad"
+        },
+        {
+            "code": "FL5",
+            "name": "Family Room"
+        },
+        {
+            "code": "FL6",
+            "name": "Family Room"
+        },
+        {
+            "code": "FL7",
+            "name": "Family Room"
+        },
+        {
+            "code": "FL8",
+            "name": "Family Room"
+        },
+        {
+            "code": "FL",
+            "name": "Family Room"
+        }
+    ]

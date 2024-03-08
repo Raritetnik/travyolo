@@ -1,0 +1,42 @@
+[
+    {
+        "code": "2000",
+        "name": "California"
+    },
+    {
+        "code": "2001",
+        "name": "New York"
+    },
+    {
+        "code": "2002",
+        "name": "Texas"
+    },
+    {
+        "code": "2003",
+        "name": "Florida"
+    },
+    {
+        "code": "2004",
+        "name": "Georgia"
+    },
+    {
+        "code": "2005",
+        "name": "Washington"
+    },
+    {
+        "code": "2006",
+        "name": "Illinois"
+    },
+    {
+        "code": "2007",
+        "name": "Arizona"
+    },
+    {
+        "code": "2008",
+        "name": "Massachusetts"
+    },
+    {
+        "code": "2009",
+        "name": "Berlin"
+    }
+]

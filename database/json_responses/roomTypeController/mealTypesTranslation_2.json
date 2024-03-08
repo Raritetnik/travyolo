@@ -1,0 +1,18 @@
+[
+        {
+            "code": "CS",
+            "name": "Chambre seulement"
+        },
+        {
+            "code": "PC",
+            "name": "Petit-déjeuner continental"
+        },
+        {
+            "code": "PA",
+            "name": "Petit-déjeuner anglais"
+        },
+        {
+            "code": "MT",
+            "name": "La moitié du tableau"
+        }
+    ]

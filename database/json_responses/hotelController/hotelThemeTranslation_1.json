@@ -1,0 +1,42 @@
+[
+    {
+        "code": "1000",
+        "name": "Plage / Mer"
+    },
+    {
+        "code": "1001",
+        "name": "Ski / Sports D'Hiver"
+    },
+    {
+        "code": "1002",
+        "name": "Spa / Détente"
+    },
+    {
+        "code": "1003",
+        "name": "Golf / Sports"
+    },
+    {
+        "code": "1004",
+        "name": "Romantisme / Lune De Miel"
+    },
+    {
+        "code": "1005",
+        "name": "Gastronome"
+    },
+    {
+        "code": "1006",
+        "name": "Famille"
+    },
+    {
+        "code": "1007",
+        "name": "Design"
+    },
+    {
+        "code": "1008",
+        "name": "Luxe"
+    },
+    {
+        "code": "1009",
+        "name": "Budget/Randonneur"
+    }
+]

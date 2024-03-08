@@ -1,0 +1,49 @@
+[
+    {
+        "code": "345",
+        "name": "Pets allowed - dogs and cats only",
+        "facility_type": "16",
+        "category": "127",
+        "themes": [
+            "11e",
+            "12b"
+        ],
+        "scope": "103",
+        "charge_free": "",
+        "updated_at": "2016-02-09T09:30:59.056764Z"
+    },
+    {
+        "code": "3d2",
+        "name": "Clothes Hangers",
+        "facility_type": "25",
+        "category": "12d",
+        "themes": [
+            "12b"
+        ],
+        "scope": "103",
+        "charge_free": "",
+        "updated_at": "2016-02-09T09:31:01.864961Z"
+    },
+    {
+        "code": "390",
+        "name": "Forest",
+        "facility_type": "24",
+        "category": "103",
+        "themes": [
+            "12b"
+        ],
+        "scope": "102",
+        "charge_free": "",
+        "updated_at": "2016-02-09T09:31:01.598924Z"
+    },
+    {
+        "code": "1c",
+        "name": "Beach",
+        "facility_type": "17",
+        "category": null,
+        "themes": [],
+        "scope": "101",
+        "charge_free": "",
+        "updated_at": "2016-02-09T09:30:53.989627Z"
+    }
+]

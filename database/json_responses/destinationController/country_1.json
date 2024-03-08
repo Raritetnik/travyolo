@@ -1,0 +1,62 @@
+[
+    {
+        "code": "ad",
+        "name": "Andorra",
+        "continent": "eu",
+        "updated_at": "2016-02-09T09:30:14.050096Z"
+    },
+    {
+        "code": "ae",
+        "name": "United Arab Emirates",
+        "continent": "as",
+        "updated_at": "2016-02-09T09:30:11.708092Z"
+    },
+    {
+        "code": "af",
+        "name": "Afghanistan",
+        "continent": "as",
+        "updated_at": "2016-02-09T09:30:09.524610Z"
+    },
+    {
+        "code": "ag",
+        "name": "Antigua & Barbuda",
+        "continent": "na",
+        "updated_at": "2016-02-09T09:30:14.417117Z"
+    },
+    {
+        "code": "ai",
+        "name": "Anguilla",
+        "continent": "na",
+        "updated_at": "2016-02-09T09:30:13.534338Z"
+    },
+    {
+        "code": "al",
+        "name": "Albania",
+        "continent": "eu",
+        "updated_at": "2016-02-09T09:30:11.773295Z"
+    },
+    {
+        "code": "am",
+        "name": "Armenia",
+        "continent": "as",
+        "updated_at": "2016-02-09T09:30:11.758360Z"
+    },
+    {
+        "code": "ao",
+        "name": "Angola",
+        "continent": "af",
+        "updated_at": "2016-02-09T09:30:13.434738Z"
+    },
+    {
+        "code": "aq",
+        "name": "Antarctica",
+        "continent": "an",
+        "updated_at": "2016-02-09T09:30:09.375562Z"
+    },
+    {
+        "code": "ar",
+        "name": "Argentina",
+        "continent": "sa",
+        "updated_at": "2016-02-09T09:30:11.795714Z"
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "code": "10",
+        "name": "Conference"
+    },
+    {
+        "code": "11",
+        "name": "Childrens Activities & Playground"
+    },
+    {
+        "code": "12",
+        "name": "Bathroom"
+    },
+    {
+        "code": "13",
+        "name": "Living Room"
+    },
+    {
+        "code": "14",
+        "name": "Guest room amenity"
+    },
+    {
+        "code": "15",
+        "name": "Property Facilities"
+    },
+    {
+        "code": "16",
+        "name": "Featured Image"
+    },
+    {
+        "code": "17",
+        "name": "Cafe/Bar"
+    },
+    {
+        "code": "18",
+        "name": "Banquet/Ballroom"
+    },
+    {
+        "code": "19",
+        "name": "Lounge"
+    }
+]

@@ -1,0 +1,121 @@
+
+     [
+        {
+            "code": "10000",
+            "country": "ve",
+            "parent": null,
+            "regions": [
+                "1440"
+            ],
+            "name": "El Agua",
+            "latitude": 11.14244556427002,
+            "longitude": -63.868160247802734,
+            "updated_at": "2014-09-22T21:05:06.987568Z"
+        },
+        {
+            "code": "10001",
+            "country": "mx",
+            "parent": null,
+            "regions": [
+                "136b"
+            ],
+            "name": "San Carlos",
+            "latitude": 27.966699600219727,
+            "longitude": -111.06700134277344,
+            "updated_at": "2014-09-22T21:05:07.004153Z"
+        },
+        {
+            "code": "10002",
+            "country": "mx",
+            "parent": null,
+            "regions": [
+                "136b"
+            ],
+            "name": "Kino Nuevo",
+            "latitude": 28.86669921875,
+            "longitude": -112.03299713134766,
+            "updated_at": "2014-09-22T21:05:07.022237Z"
+        },
+        {
+            "code": "10003",
+            "country": "cn",
+            "parent": null,
+            "regions": [
+                "103b"
+            ],
+            "name": "Xingzhuang",
+            "latitude": 31.172199249267578,
+            "longitude": 119.7030029296875,
+            "updated_at": "2014-09-22T21:05:07.041737Z"
+        },
+        {
+            "code": "10004",
+            "country": "cn",
+            "parent": null,
+            "regions": [
+                "103b"
+            ],
+            "name": "Hengshan",
+            "latitude": 31.25,
+            "longitude": 119.56700134277344,
+            "updated_at": "2014-09-22T21:05:07.060883Z"
+        },
+        {
+            "code": "10005",
+            "country": "cn",
+            "parent": null,
+            "regions": [
+                "103b"
+            ],
+            "name": "Xuzhuang",
+            "latitude": 32.3286018371582,
+            "longitude": 119.9010009765625,
+            "updated_at": "2014-09-22T21:05:07.080866Z"
+        },
+        {
+            "code": "10007",
+            "country": "cn",
+            "parent": null,
+            "regions": [
+                "103b"
+            ],
+            "name": "Shimenkan",
+            "latitude": 32.01250076293945,
+            "longitude": 118.79199981689453,
+            "updated_at": "2014-09-22T21:05:07.145201Z"
+        },
+        {
+            "code": "10008",
+            "country": "cn",
+            "parent": null,
+            "regions": [],
+            "name": "Jianshe",
+            "latitude": 32.016700744628906,
+            "longitude": 118.59200286865234,
+            "updated_at": "2014-09-22T21:05:07.179891Z"
+        },
+        {
+            "code": "10009",
+            "country": "cn",
+            "parent": null,
+            "regions": [
+                "103b"
+            ],
+            "name": "Wangdian",
+            "latitude": 32.79029846191406,
+            "longitude": 118.58799743652344,
+            "updated_at": "2014-09-22T21:05:07.206062Z"
+        },
+        {
+            "code": "1000a",
+            "country": "mx",
+            "parent": null,
+            "regions": [
+                "139c"
+            ],
+            "name": "El Naranjo",
+            "latitude": 22.533300399780273,
+            "longitude": -99.33329772949219,
+            "updated_at": "2014-09-22T21:05:07.288762Z"
+        }
+    ]

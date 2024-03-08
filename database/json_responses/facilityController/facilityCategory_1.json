@@ -1,0 +1,52 @@
+ [
+        {
+            "code": "100",
+            "name": "Activities",
+            "updated_at": "2016-03-10T14:23:12.191929Z"
+        },
+        {
+            "code": "101",
+            "name": "Airport",
+            "updated_at": "2016-03-10T14:23:12.197160Z"
+        },
+        {
+            "code": "102",
+            "name": "Alcohol",
+            "updated_at": "2016-03-10T14:23:12.201968Z"
+        },
+        {
+            "code": "103",
+            "name": "Area",
+            "updated_at": "2016-03-10T14:23:12.206811Z"
+        },
+        {
+            "code": "104",
+            "name": "Banquet",
+            "updated_at": "2016-03-10T14:23:12.211665Z"
+        },
+        {
+            "code": "105",
+            "name": "Bar",
+            "updated_at": "2016-03-10T14:23:12.216650Z"
+        },
+        {
+            "code": "106",
+            "name": "Bathroom",
+            "updated_at": "2016-03-10T14:23:12.221501Z"
+        },
+        {
+            "code": "107",
+            "name": "Beach",
+            "updated_at": "2016-03-10T14:23:12.226286Z"
+        },
+        {
+            "code": "108",
+            "name": "Beach Activities",
+            "updated_at": "2016-03-10T14:23:12.231072Z"
+        },
+        {
+            "code": "109",
+            "name": "Beds",
+            "updated_at": "2016-03-10T14:23:12.235904Z"
+        }
+    ]

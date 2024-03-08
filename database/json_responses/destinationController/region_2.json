@@ -1,0 +1,82 @@
+[
+    {
+        "code": "2000",
+        "country": "us",
+        "kind": "state",
+        "state_code": "CA",
+        "name": "California",
+        "updated_at": "2023-05-01T06:00:00Z"
+    },
+    {
+        "code": "2001",
+        "country": "us",
+        "kind": "state",
+        "state_code": "NY",
+        "name": "New York",
+        "updated_at": "2023-05-01T06:00:00Z"
+    },
+    {
+        "code": "2002",
+        "country": "us",
+        "kind": "state",
+        "state_code": "TX",
+        "name": "Texas",
+        "updated_at": "2023-05-05T09:31:44.255087Z"
+    },
+    {
+        "code": "2003",
+        "country": "us",
+        "kind": "state",
+        "state_code": "FL",
+        "name": "Florida",
+        "updated_at": "2023-05-01T06:00:00Z"
+    },
+    {
+        "code": "2004",
+        "country": "us",
+        "kind": "state",
+        "state_code": "GA",
+        "name": "Georgia",
+        "updated_at": "2023-05-05T09:31:44.298467Z"
+    },
+    {
+        "code": "2005",
+        "country": "us",
+        "kind": "state",
+        "state_code": "WA",
+        "name": "Washington",
+        "updated_at": "2023-05-05T09:31:44.148122Z"
+    },
+    {
+        "code": "2006",
+        "country": "us",
+        "kind": "state",
+        "state_code": "IL",
+        "name": "Illinois",
+        "updated_at": "2023-05-05T09:31:44.191761Z"
+    },
+    {
+        "code": "2007",
+        "country": "us",
+        "kind": "state",
+        "state_code": "AZ",
+        "name": "Arizona",
+        "updated_at": "2023-05-05T09:31:44.127178Z"
+    },
+    {
+        "code": "2008",
+        "country": "us",
+        "kind": "state",
+        "state_code": "MA",
+        "name": "Massachusetts",
+        "updated_at": "2023-05-05T09:31:44.177218Z"
+    },
+    {
+        "code": "2009",
+        "country": "de",
+        "kind": "state",
+        "state_code": "BE",
+        "name": "Berlin",
+        "updated_at": "2023-05-01T06:00:00Z"
+    }
+]

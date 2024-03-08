@@ -1,0 +1,62 @@
+[
+    {
+        "code": "20000",
+        "country": "us",
+        "parent": null,
+        "regions": [
+            "5432"
+        ],
+        "name": "Los Angeles",
+        "latitude": 34.0522,
+        "longitude": -118.2437,
+        "updated_at": "2021-09-22T21:05:06.987568Z"
+    },
+    {
+        "code": "20001",
+        "country": "fr",
+        "parent": null,
+        "regions": [
+            "2345"
+        ],
+        "name": "Paris",
+        "latitude": 48.8566,
+        "longitude": 2.3522,
+        "updated_at": "2021-09-22T21:05:07.004153Z"
+    },
+    {
+        "code": "20002",
+        "country": "au",
+        "parent": null,
+        "regions": [
+            "7890"
+        ],
+        "name": "Sydney",
+        "latitude": -33.8688,
+        "longitude": 151.2093,
+        "updated_at": "2021-09-22T21:05:07.022237Z"
+    },
+    {
+        "code": "20003",
+        "country": "jp",
+        "parent": null,
+        "regions": [
+            "5678"
+        ],
+        "name": "Tokyo",
+        "latitude": 35.6895,
+        "longitude": 139.6917,
+        "updated_at": "2021-09-22T21:05:07.041737Z"
+    },
+    {
+        "code": "20004",
+        "country": "eg",
+        "parent": null,
+        "regions": [
+            "1122"
+        ],
+        "name": "Cairo",
+        "latitude": 30.0444,
+        "longitude": 31.2357,
+        "updated_at": "2021-09-22T21:05:07.060883Z"
+    }
+]

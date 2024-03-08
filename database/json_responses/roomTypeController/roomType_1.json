@@ -1,0 +1,62 @@
+[
+        {
+            "code": "SB",
+            "quantity": 1,
+            "name": "Single",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "DB",
+            "quantity": 2,
+            "name": "Double",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "TW",
+            "quantity": 2,
+            "name": "Twin",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "TB",
+            "quantity": 3,
+            "name": "Triple",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "QB",
+            "quantity": 4,
+            "name": "Quad",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "FL5",
+            "quantity": 5,
+            "name": "Family Room",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "FL6",
+            "quantity": 6,
+            "name": "Family Room",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "FL7",
+            "quantity": 7,
+            "name": "Family Room",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "FL8",
+            "quantity": 8,
+            "name": "Family Room",
+            "updated_at": "2014-12-08T06:00:00Z"
+        },
+        {
+            "code": "FL",
+            "quantity": 0,
+            "name": "Family Room",
+            "updated_at": "2016-01-14T15:02:29.855760Z"
+        }
+    ]

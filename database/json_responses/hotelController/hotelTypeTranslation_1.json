@@ -1,0 +1,42 @@
+[
+    {
+        "code": "201",
+        "name": "Appartement"
+    },
+    {
+        "code": "202",
+        "name": "Maison d'hôtes"
+    },
+    {
+        "code": "203",
+        "name": "Auberge de jeunesse"
+    },
+    {
+        "code": "204",
+        "name": "Hôtel"
+    },
+    {
+        "code": "205",
+        "name": "Motel"
+    },
+    {
+        "code": "206",
+        "name": "Station touristique"
+    },
+    {
+        "code": "207",
+        "name": "Résidence"
+    },
+    {
+        "code": "208",
+        "name": "Chambre d'hôtes"
+    },
+    {
+        "code": "209",
+        "name": "Auberge japonaise"
+    },
+    {
+        "code": "210",
+        "name": "Gîte rural"
+    }
+]

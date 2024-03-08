@@ -1,0 +1,38 @@
+ [
+        {
+            "code": "LS",
+            "name": "Lit simple"
+        },
+        {
+            "code": "LD",
+            "name": "Lit double"
+        },
+        {
+            "code": "LJ",
+            "name": "Lit jumeau"
+        },
+        {
+            "code": "LT",
+            "name": "Lit triple"
+        },
+        {
+            "code": "LQ",
+            "name": "Lit quadruple"
+        },
+        {
+            "code": "SM",
+            "name": "La salle a manger"
+        },
+        {
+            "code": "SM6",
+            "name": "La salle a manger 6"
+        },
+        {
+            "code": "SM7",
+            "name": "La salle a manger 7"
+        },
+        {
+            "code": "SM8",
+            "name": "La salle a manger 8"
+        }
+    ]

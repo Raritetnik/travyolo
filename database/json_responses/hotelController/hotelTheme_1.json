@@ -1,0 +1,52 @@
+[
+    {
+        "code": "1000",
+        "name": "Beach/Seaside",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1001",
+        "name": "Ski/Wintersports",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1002",
+        "name": "Spa/Relax",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1003",
+        "name": "Golf/Sports",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1004",
+        "name": "Romance/Honeymoon",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1005",
+        "name": "Gourmet",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1006",
+        "name": "Family",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1007",
+        "name": "Design",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1008",
+        "name": "Luxury",
+        "updated_at": "2014-12-23T06:00:00Z"
+    },
+    {
+        "code": "1009",
+        "name": "Budget/Backpackers",
+        "updated_at": "2014-12-23T06:00:00Z"
+    }
+]

@@ -1,0 +1,52 @@
+[
+    {
+        "code": "3b5a8",
+        "name": "Hôtel de la Plage",
+        "updated_at": "2022-07-12T15:30:45Z"
+    },
+    {
+        "code": "9d2f1",
+        "name": "Hôtel du Soleil",
+        "updated_at": "2023-01-19T09:12:27Z"
+    },
+    {
+        "code": "e6c74",
+        "name": "Hôtel Belle Vue",
+        "updated_at": "2023-04-05T18:47:13Z"
+    },
+    {
+        "code": "f1e39",
+        "name": "Hôtel des Fleurs",
+        "updated_at": "2022-11-30T08:05:58Z"
+    },
+    {
+        "code": "7a9c6",
+        "name": "Hôtel Étoile",
+        "updated_at": "2023-03-14T16:22:40Z"
+    },
+    {
+        "code": "2b8f4",
+        "name": "Hôtel Central",
+        "updated_at": "2022-09-02T11:40:21Z"
+    },
+    {
+        "code": "f8d23",
+        "name": "Hôtel Majestic",
+        "updated_at": "2023-02-07T20:15:36Z"
+    },
+    {
+        "code": "4e1c9",
+        "name": "Hôtel du Lac",
+        "updated_at": "2022-10-15T13:58:09Z"
+    },
+    {
+        "code": "0d9b7",
+        "name": "Hôtel Moderne",
+        "updated_at": "2023-05-05T09:32:54Z"
+    },
+    {
+        "code": "6f2e8",
+        "name": "Hôtel de Ville",
+        "updated_at": "2022-12-23T07:20:02Z"
+    }
+]
